@@ -1,4 +1,4 @@
-D2 Softkeys
+Softkeys
 =============
 ADDON.D script for Cyanongenmod 10.1 that enables softkeys for the Galaxy S3.
 
