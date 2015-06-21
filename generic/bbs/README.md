@@ -10,7 +10,7 @@ Two versions:
 95-bbs-play.sh is for BBS installed from the Play Store, and 
 95-bbs-xda.sh is for BBS installed from APK from above XDA thread
 
-
+Backup paths:
 95-bbs-play.sh: Assumes app exists at /system/priv-app/com.asksven.betterbatterystats_signed.apk
 95-bbs-xda.sh: Assumes app exists at /system/priv-app/com.asksven.betterbatterystats_xdaedition.apk
 
