@@ -1,5 +1,6 @@
 Google Wallet
 ================
+# DEPRICATED
 
 Addon.d script for Cyanogenmod to backup Google Wallet and restore it during 
 updates.
