@@ -8,6 +8,7 @@
 list_files() {
 cat <<EOF
 lib/libaptX-1.0.0-rel-Android21-ARMv7A.so
+lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so
 lib/libaptXScheduler.so
 EOF
 }
